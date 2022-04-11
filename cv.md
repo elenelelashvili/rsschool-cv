@@ -1,4 +1,4 @@
-![Profile Photo](/batqi.jpg)
+![Temprorary Photo](/batqi.jpg)
 # Elene Lelashvili
 ## Contact:
 ### Gldanula, Tbilisi
