@@ -1,2 +1,1 @@
-# rsschool-cv
-CV_MARKDOWN TASK 
+https://elenelelashvili.github.io/rsschool-cv/
