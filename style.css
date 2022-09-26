@@ -89,6 +89,11 @@ h1{
   .EleneImage {
     height: 300px;
   }
+
+.logo{
+    width: 50px;
+    heigth: 25px;
+    }
   
   a {
     line-height: 20px;
